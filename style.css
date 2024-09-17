@@ -1,0 +1,25 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+
+form{
+   padding-top: 150px;
+   max-width: 500px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   margin: 0 auto;
+   gap: 10px;
+   input,button{
+      padding: 20px;
+   }
+
+
+
+}
+
+#thanks {
+   text-align: center;
+   padding: 30px;
+   }
